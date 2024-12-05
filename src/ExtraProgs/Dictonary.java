@@ -3,6 +3,7 @@ package ExtraProgs;
 public class Dictonary {
 
 	public static void main(String[] args) {
+		System.out.println("******");
 		String s = "deep";
 		String c = "";
 		
